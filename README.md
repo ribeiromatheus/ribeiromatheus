@@ -1,9 +1,11 @@
-<a href="https://www.linkedin.com/in/matheuspr/">
   <p align="center">
-    <img src="https://img.shields.io/badge/-Matheus Ribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuspr/">
-    <img src="https://img.shields.io/badge/Portfolio-Matheus%20Ribeiro-blue">
+    <a href="https://www.linkedin.com/in/matheuspr/">
+      <img src="https://img.shields.io/badge/-Matheus Ribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuspr/">
+    </a>
+    <a href="https://ribeiromatheus.github.io/portfolio">
+      <img src="https://img.shields.io/badge/Portfolio-Matheus%20Ribeiro-blue">
+    </a>
   </p>
-</a>
 
 > English
 ### Hi there 👋
