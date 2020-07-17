@@ -9,7 +9,7 @@
 
 > English
 ### Hi, I'm Matheus 👋🏾 👩🏾‍💻
-I am a **Fullstack Developer** who uses technology to build applications that add value and to solve problems. My experience includes web and mobile application development, creation and consumption of Restful APIs, creation, connection and database management. I like to create personal projects both to improve my skills and to learn new technology. I am currently working on as a freelancer at <a target="_blank" href="https://www.workana.com/freelancer/8fded6f07d872eef3def953c9c429bdb">Workana.</a>
+I am a **Fullstack Developer** who uses technology to build applications that add value and to solve problems. My experience includes web and mobile application development, creation and consumption of Restful APIs, creation, connection and database management. I like to create personal projects both to improve my skills and to learn new technology. I am currently working as a freelancer at <a target="_blank" href="https://www.workana.com/freelancer/8fded6f07d872eef3def953c9c429bdb">Workana.</a>
 
 > Português
 ### Olá, me chamo Matheus 👋🏾 👩🏾‍💻
