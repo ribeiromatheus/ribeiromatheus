@@ -2,9 +2,6 @@
     <a href="https://www.linkedin.com/in/matheuspr/">
       <img src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width=20 height=20>
     </a>
-    <a href="https://ribeiromatheus.github.io">
-      <img src="https://img.shields.io/badge/🌐-Matheus%20Ribeiro-blue">
-    </a>
     <br>
   <code><a title="HTML5" target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"><img height="28" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png" style="max-width:100%;"></a></code>
   <code><a title="CSS3" target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"><img height="28" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png" style="max-width:100%;"></a></code>
@@ -18,11 +15,11 @@
   </p> 
 
 > English
-### Hi, I'm Matheus 👋🏾 👩🏾‍💻
+### Hi, I'm <a href="https://ribeiromatheus.github.io" target="_blank">Matheus</a> 👋🏾 👩🏾‍💻
 I am a **Fullstack Developer** who uses technology to build applications that add value and to solve problems. My experience includes web and mobile application development, creation and consumption of Restful APIs, creation, connection and database management. I like to create personal projects both to improve my skills and to learn new technology. I am currently working as a freelancer at <a target="_blank" href="https://www.workana.com/freelancer/8fded6f07d872eef3def953c9c429bdb">Workana.</a>
 
 > Português
-### Olá, me chamo Matheus 👋🏾 👩🏾‍💻
+### Olá, me chamo <a href="https://ribeiromatheus.github.io" target="_blank">Matheus</a> 👋🏾 👩🏾‍💻
 Sou um **Desenvolvedor Fullstack** que utiliza tecnologia para construir aplicações que agregram valor e para resolver problemas. Minha experiência inclui desenvolvimento de aplicação web e mobile, criação e consumo de APIs Restful, criação, conexão e gerenciamento de banco de dados. Gosto de criar projetos pessoais tanto para aprimorar as minhas habilidades quanto para aprender uma tecnologia nova. Atualmente estou sempre em busca de trabalhos freelancer no <a target="_blank" href="https://www.workana.com/freelancer/8fded6f07d872eef3def953c9c429bdb">Workana.</a>
 
 <div style="display:flex;justify-content:center">
