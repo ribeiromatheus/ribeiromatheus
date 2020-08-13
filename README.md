@@ -2,7 +2,7 @@
     <a href="https://www.linkedin.com/in/matheuspr/">
       <img src="https://img.shields.io/badge/-Matheus Ribeiro-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuspr/">
     </a>
-    <a href="https://ribeiromatheus.github.io/portfolio">
+    <a href="https://ribeiromatheus.github.io">
       <img src="https://img.shields.io/badge/🌐-Matheus%20Ribeiro-blue">
     </a>
   </p>
