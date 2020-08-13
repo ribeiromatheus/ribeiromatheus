@@ -1,6 +1,6 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/matheuspr/">
-      <img src="https://img.shields.io/badge/-Matheus Ribeiro-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuspr/">
+      <img src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width=20 height=20>
     </a>
     <a href="https://ribeiromatheus.github.io">
       <img src="https://img.shields.io/badge/🌐-Matheus%20Ribeiro-blue">
