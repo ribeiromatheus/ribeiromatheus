@@ -25,8 +25,10 @@ I am a **Fullstack Developer** who uses technology to build applications that ad
 ### Olá, me chamo Matheus 👋🏾 👩🏾‍💻
 Sou um **Desenvolvedor Fullstack** que utiliza tecnologia para construir aplicações que agregram valor e para resolver problemas. Minha experiência inclui desenvolvimento de aplicação web e mobile, criação e consumo de APIs Restful, criação, conexão e gerenciamento de banco de dados. Gosto de criar projetos pessoais tanto para aprimorar as minhas habilidades quanto para aprender uma tecnologia nova. Atualmente estou sempre em busca de trabalhos freelancer no <a target="_blank" href="https://www.workana.com/freelancer/8fded6f07d872eef3def953c9c429bdb">Workana.</a>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ribeiromatheus&show_icons=true&theme=radical">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiromatheus&layout=compact&theme=radical">
+<div style="display:flex;justify-content:center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ribeiromatheus&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiromatheus&layout=compact&theme=radical">
+</div>
 
 <!--
 **ribeiromatheus/ribeiromatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
