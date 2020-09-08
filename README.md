@@ -1,6 +1,6 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/matheuspr/">
-      <img src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width=20 height=20>
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuspr/">
     </a>
     <br>
   <code><a title="HTML5" target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"><img height="28" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png" style="max-width:100%;"></a></code>
